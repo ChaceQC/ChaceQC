@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Chace
 
-<!--
-**ChaceQC/ChaceQC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/ChaceQC" class="rich-diff-level-one">
+        <img src="https://github-readme-stats.vercel.app/api?username=ChaceQC&title_color=333&text_color=777"
+            alt="Chace's Stats">
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/ChaceQC" class="rich-diff-level-one">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaceQC&title_color=333&text_color=777"
+            alt="Chace's Stats">
+    </a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Language:</p>
+
+<p align="center">
+    <a href="https://www.python.org/" class="rich-diff-level-one">
+        <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
+    </a>
+    <!-- <a href="https://kotlinlang.org/" class="rich-diff-level-one">
+        <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff">
+    </a>
+    <a href="https://www.java.com/" class="rich-diff-level-one">
+        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
+    </a> -->
+</p>
+
